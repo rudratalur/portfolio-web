@@ -114,3 +114,11 @@ hr{
 .social-links{
     padding-inline-start: 0px;
 }
+.link-social{
+    padding-inline: 5px;
+    padding-inline-end: 0px;
+}
+ .link-social .a {
+    border-radius: 50%;
+    height: 100px;
+ } 
