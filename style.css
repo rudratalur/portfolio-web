@@ -21,7 +21,7 @@ hr{
     margin: auto;
 }
 .link{
-    text-overflow: unsets;
+    text-decoration-line: line-through;
     text-decoration: none;
     padding: 00.5rem 0.1rem;
 }
